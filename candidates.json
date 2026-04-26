@@ -1,0 +1,19 @@
+[{
+        "name": "Rahul Sharma",
+        "skills": ["Python", "FastAPI", "SQL"],
+        "experience": 3,
+        "summary": "Backend developer with API experience"
+    },
+    {
+        "name": "Priya Das",
+        "skills": ["React", "Node.js", "MongoDB"],
+        "experience": 2,
+        "summary": "Frontend engineer with frontend expertise"
+    },
+    {
+        "name": "Aman Verma",
+        "skills": ["Python", "Machine Learning", "NLP"],
+        "experience": 4,
+        "summary": "AI engineer experienced in NLP systems"
+    }
+]

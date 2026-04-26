@@ -1,0 +1,119 @@
+==================== CHEF ====================
+We are hiring a professional chef with 3+ years of experience in Italian cuisine. 
+Required Skills: Pasta preparation, menu planning, kitchen operations, food safety standards.
+Preferred Skills: Inventory management, team leadership, fine dining experience.
+
+==================== ACCOUNTANT ====================
+Looking for an accountant with 2+ years of experience.
+Required Skills: Taxation, financial reporting, ledger management, Tally/Excel.
+Preferred Skills: GST filing, auditing, budgeting, compliance.
+
+==================== ADVOCATE ====================
+Seeking a legal professional with court experience.
+Required Skills: Legal drafting, case handling, litigation, contract law.
+Preferred Skills: Corporate law, arbitration, legal research tools.
+
+==================== AGRICULTURE ====================
+Hiring an agriculture specialist.
+Required Skills: Crop management, soil analysis, irrigation techniques, pest control.
+Preferred Skills: Agri-tech tools, sustainable farming, data-based yield optimization.
+
+==================== APPAREL ====================
+Looking for a textile/apparel professional.
+Required Skills: Garment manufacturing, fabric selection, stitching processes.
+Preferred Skills: Fashion design software, quality control, merchandising.
+
+==================== ARTS ====================
+Seeking a creative artist.
+Required Skills: Painting, sketching, visual design, color theory.
+Preferred Skills: Digital illustration tools, Adobe Photoshop, concept art.
+
+==================== AUTOMOBILE ====================
+Hiring an automobile engineer.
+Required Skills: Vehicle diagnostics, engine systems, CAD tools, maintenance.
+Preferred Skills: EV systems, simulation tools, automotive testing.
+
+==================== AVIATION ====================
+Looking for an aviation professional.
+Required Skills: Aircraft systems, safety procedures, flight operations.
+Preferred Skills: DGCA knowledge, aviation software, maintenance planning.
+
+==================== BANKING ====================
+Seeking a banking professional.
+Required Skills: Loan processing, financial services, customer handling.
+Preferred Skills: Risk assessment, credit analysis, banking software.
+
+==================== BPO ====================
+Hiring a BPO executive.
+Required Skills: Customer support, call handling, communication skills.
+Preferred Skills: CRM tools, voice process experience, problem-solving.
+
+==================== BUSINESS DEVELOPMENT ====================
+Looking for a business development executive.
+Required Skills: Lead generation, sales strategy, client acquisition.
+Preferred Skills: CRM tools, negotiation skills, B2B sales experience.
+
+==================== CONSTRUCTION ====================
+Hiring a construction manager.
+Required Skills: Site supervision, project planning, civil engineering basics.
+Preferred Skills: AutoCAD, budgeting, contractor management.
+
+==================== CONSULTANT ====================
+Seeking a consultant.
+Required Skills: Business strategy, problem-solving, analytical thinking.
+Preferred Skills: Data analysis, stakeholder management, presentation skills.
+
+==================== DESIGNER ====================
+Looking for a UI/UX or graphic designer.
+Required Skills: Figma, Adobe XD, UI/UX principles, wireframing.
+Preferred Skills: Animation tools, prototyping, user research.
+
+==================== DIGITAL MEDIA ====================
+Hiring a digital media specialist.
+Required Skills: Social media management, content creation, SEO.
+Preferred Skills: Google Analytics, ad campaigns, video editing.
+
+==================== ENGINEERING ====================
+Looking for an engineer.
+Required Skills: System design, technical problem-solving, core engineering concepts.
+Preferred Skills: CAD tools, simulation, domain-specific expertise.
+
+==================== FINANCE ====================
+Seeking a finance professional.
+Required Skills: Financial analysis, budgeting, forecasting, Excel.
+Preferred Skills: Investment analysis, portfolio management, risk modeling.
+
+==================== FITNESS ====================
+We are hiring a fitness trainer.
+Required Skills: Workout planning, nutrition guidance, physical training.
+Preferred Skills: Personal training certification, client management.
+
+==================== HEALTHCARE ====================
+Looking for a healthcare professional.
+Required Skills: Patient care, clinical procedures, medical knowledge.
+Preferred Skills: Hospital systems, diagnostics, healthcare compliance.
+
+==================== HR ====================
+Hiring an HR professional.
+Required Skills: Recruitment, talent acquisition, employee management.
+Preferred Skills: HRMS tools, payroll, performance management.
+
+==================== INFORMATION TECHNOLOGY ====================
+Looking for a software developer.
+Required Skills: Python, APIs, backend development, databases.
+Preferred Skills: Docker, AWS, system design, microservices.
+
+==================== PUBLIC RELATIONS ====================
+Seeking a PR specialist.
+Required Skills: Media relations, communication strategy, branding.
+Preferred Skills: Crisis management, social media PR, content writing.
+
+==================== SALES ====================
+Hiring a sales executive.
+Required Skills: Client interaction, negotiation, lead conversion.
+Preferred Skills: CRM tools, target-based sales, presentation skills.
+
+==================== TEACHER ====================
+Looking for a teacher.
+Required Skills: Subject expertise, lesson planning, classroom management.
+Preferred Skills: EdTech tools, student engagement strategies.
