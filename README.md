@@ -1,7 +1,7 @@
 # 🤖 AI-Powered Talent Scouting Agent
 
 An intelligent recruitment assistant that automates candidate discovery, matching, engagement, and ranking using AI.
-
+Dataset taken from Kaggle
 ---
 
 # 🚀 Overview
@@ -257,4 +257,4 @@ This AI agent transforms recruitment from a manual process into an **intelligent
 
 # 👨‍💻 Author
 
-Built as part of an AI hackathon project.
+Built as part of an AI hackathon project by Ankuran Khanikar
