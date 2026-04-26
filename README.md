@@ -17,6 +17,41 @@ This project solves that by building an **AI agent** that:
 
 ---
 
+# ⚡ Quick Start (Run Locally)
+
+```bash
+# Clone the repository
+git clone https://github.com/<your-username>/ai-talent-scout-agent.git
+
+cd ai-talent-scout-agent
+
+# Create virtual environment
+python -m venv venv
+
+# Activate environment
+# Windows:
+venv\Scripts\activate
+
+# Mac/Linux:
+source venv/bin/activate
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the app
+streamlit run app.py
+```
+
+---
+
+# ⚠️ Important Notes
+
+* Ensure **Python 3.9+** is installed
+* Dataset (`Resume.csv`) and resume PDFs are included
+* First run may take time (model loading)
+
+---
+
 # 🎯 Key Features
 
 ### 1. 📄 Job Description Parsing
@@ -127,13 +162,15 @@ A dedicated section shows:
 
 ```
 ├── app.py               # Main Streamlit application
-├── data_loader.py      # Resume loading & filtering
-├── jd_parser.py        # Skill extraction from JD
-├── engagement.py       # AI outreach & response simulation
-├── matcher.py          # (Legacy) TF-IDF approach
-├── conversation.py     # (Experimental) interest simulation
-├── Resume.csv          # Dataset
-├── data/               # Resume PDFs
+├── data_loader.py       # Resume loading & filtering
+├── jd_parser.py         # Skill extraction from JD
+├── engagement.py        # AI outreach & response simulation
+├── matcher.py           # (Legacy) TF-IDF approach
+├── conversation.py      # (Experimental) interest simulation
+├── Resume.csv           # Dataset
+├── data/                # Resume PDFs
+├── requirements.txt     # Dependencies
+├── README.md
 ```
 
 ---
@@ -221,4 +258,3 @@ This AI agent transforms recruitment from a manual process into an **intelligent
 # 👨‍💻 Author
 
 Built as part of an AI hackathon project.
-
